@@ -1,0 +1,4 @@
+const string = `GeeksforGeeks is a leading platform that 
+provides computer science resources`;
+const arrayofString = string.split(&quot; &quot;);
+console.log(arrayofString);
