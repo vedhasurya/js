@@ -1,0 +1,2 @@
+# js
+javascript string  basic
